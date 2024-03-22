@@ -1,4 +1,4 @@
-![295174687-a085bb6d-19fe-4631-a5b0-344c46cf876f](https://github.com/infernotlc/Video-DeepFake-Detection/assets/70065773/df4c1937-609a-4abb-bebc-bc5575dba600)# VideoDeepFakeDetection
+VideoDeepFakeDetection
 
 Application that detects the originality of video files with artificial intelligence.
 
@@ -18,14 +18,14 @@ pip install -r requirements.txt
 - Running on http://127.0.0.1:5000
 
 
-![295174687-a085bb6d-19fe-4631-a5b0-344c46cf876f](https://github.com/infernotlc/Video-DeepFake-Detection/assets/70065773/3d2f85e4-4945-4e06-853d-8fa943ec5fea)
+![295173513-fd979490-00d4-4172-a850-d0a4b6e4ba76](https://github.com/infernotlc/Video-DeepFake-Detection/assets/70065773/a387dcc1-362f-4e31-92cc-da2c1e5e1a89)
 
 
 - Load your video(.mp4) file and test whether the file is real or not.
 
 
-![295173513-fd979490-00d4-4172-a850-d0a4b6e4ba76](https://github.com/infernotlc/Video-DeepFake-Detection/assets/70065773/a387dcc1-362f-4e31-92cc-da2c1e5e1a89)
 
+![295174687-a085bb6d-19fe-4631-a5b0-344c46cf876f](https://github.com/infernotlc/Video-DeepFake-Detection/assets/70065773/3d2f85e4-4945-4e06-853d-8fa943ec5fea)
 
 
 ## Overview
